@@ -2,7 +2,9 @@
 
 ProjectMakerDAO社群旨在以项目化的方式让大家进入Web3领域
 
+学习并参加一个公共的 Web3 项目？ [HackQuest](https://www.hackquest.io/zh) 是一个不错的选择。
 
+> Web3 基本还是使用 Web2 的技术去实现，只是多了一些开发的步骤和工具，比如智能合约、区块链等。
 
 **这个社群中都有谁？**  
 
@@ -113,11 +115,13 @@ ProjectMakerDAO社群旨在以项目化的方式让大家进入Web3领域
 - Web3前端开发
 - Web3后端开发
 
-
+> 推荐使用 [Remix](https://remix.ethereum.org/) IDE 进行 Web3 开发，可以在 Web 上使用，也可以本地安装使用。
 
 ### 团队技术分享
 
 - 日期： 内容：
+
+- [Web3 中文资讯社区](https://www.web3sj.com/)
 
 ## 发展板块
 
